@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BakeIt</string>
+    <string name="recipes_retrieve_error">unable to get recipes</string>
+    <string name="ingredient_quantity_text">%1$s %2$s</string>
+    <string name="widget_no_recipe">No recipe selected</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="title_activity_main">BakeIt</string>
+</resources>
